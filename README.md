@@ -4,7 +4,7 @@
 **Shashankga825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1>SHASHANK G A</h1>
 <h3>Full Stack devoloper</h3>
-<img src="https://www.freeiconspng.com/uploads/linkedin-icon-png-transparent-images--pictures--becuo-4.png" height:10px; width: 10px;><a href="https://www.linkedin.com/in/shashank-g-a-shashi-a37aa6314/"></a></img> 
+<img src="https://www.freeiconspng.com/uploads/linkedin-icon-png-transparent-images--pictures--becuo-4.png" height=10px; width=10px;><a href="https://www.linkedin.com/in/shashank-g-a-shashi-a37aa6314/"></a></img> 
 
 Here are some ideas to get you started:
 
