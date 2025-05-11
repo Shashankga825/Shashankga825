@@ -9,7 +9,7 @@
 
 <h3>Social Media Links</h3>
 <a href="https://www.linkedin.com/in/shashank-g-a-shashi-a37aa6314/"><img src="https://www.freeiconspng.com/uploads/linkedin-icon-png-transparent-images--pictures--becuo-4.png" height=40px; width=50px;></img></a> 
-<a href="https://www.instagram.com/s_g_a_08_?igsh=MTBuczVheDRpenp1MQ=="><img src="https://tse2.mm.bing.net/th?id=OIP.t6JXi7weXpUUVeL35v17LwHaEK&pid=Api&P=0&h=180" height=40px; width=50px;></img></a> 
+<a href="https://www.instagram.com/s_g_a_08_?igsh=MTBuczVheDRpenp1MQ=="><img src="https://www.pngkey.com/png/full/792-7927620_instagram-vector-png-instagram-logo-png-free-download.png" height=40px; width=50px;></img></a> 
 
 
 
